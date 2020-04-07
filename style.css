@@ -1,8 +1,10 @@
+/* Affects the entire page */
 * {
     font-family: arial, sans-serif;
     margin: auto;
 }
 
+/* All the ids that I used */
 #search {
     margin: auto;
     display: table;
@@ -16,6 +18,7 @@
     display: table;
 }
 
+/* Styling for different elements */
 input {
     padding: 5px 8px 0 16px;
     height: 45px;
@@ -94,6 +97,11 @@ li {
     display: inline;
 }
 
+a {
+    text-decoration: none;
+}
+
+/* All the classes that I used */
 .left {
     float: left;
     padding-left: 30px;
@@ -114,8 +122,4 @@ li {
     height: 450px; 
     width: 320px; 
     position: relative;
-}
-
-a {
-    text-decoration: none;
 }
