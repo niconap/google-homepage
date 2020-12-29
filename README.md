@@ -1,8 +1,8 @@
-Recreated Google homepage.
+# Recreated Google Homepage
 
 In this project I tried to recreate the Google Home Page.
 
-The skills that I have demonstrated:
+Skills shown in this project:
 - Setting up a HTML file with a basic HTML structure.
 - Adding different elements to the HTML page, such as a search bar and an image.
 - Styling a navigation bar on top and on the bottom of a page.
